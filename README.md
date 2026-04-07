@@ -217,8 +217,12 @@ npm run dev
 
 ## 👨‍💻 Author
 
-**Rayyan**
-BE CSE (AIML)
+**Rayyan A**
+
+BE.CSE/ Honours And Specilization in AIML
+
 KPR Institute of Engineering and Technology
+
+Email : rayyanibnrahman903@gmail.com
 
 ---
