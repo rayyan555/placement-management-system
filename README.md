@@ -1,9 +1,5 @@
-# placement-management-system
+# 🎓placement-management-system
 A full-stack Placement Management System built with Spring Boot, React (Vite), and PostgreSQL. Features role-based access (Student, Placement Coordinator, Department Coordinator), JWT authentication, company drive management, eligibility filtering, analytics dashboard, and interview feedback system.
-
-# 🎓 Placement Management System
-
-A full-stack web application designed to automate and manage campus placement activities efficiently. The system supports multiple user roles and provides features like company drive management, student tracking, analytics, and interview feedback.
 
 ---
 
