@@ -154,6 +154,66 @@ npm run dev
 * Data analytics and reporting
 
 ---
+---
+
+## 🖼️ Output Screenshots
+
+### 🔐 Authentication & Login
+
+![Login](images/Screenshot%202026-04-03%20175014.png)
+![Signup](images/Screenshot%202026-04-03%20175015.png)
+
+---
+
+### 📊 Dashboard
+
+![Dashboard](images/Screenshot%202026-04-03%20175027.png)
+![Dashboard 2](images/Screenshot%202026-04-03%20175038.png)
+
+---
+
+### 👨‍🎓 Student Module
+
+![Student Profile](images/Screenshot%202026-04-03%20175046.png)
+![Student Dashboard](images/Screenshot%202026-04-03%20175056.png)
+
+---
+
+### 🧑‍💼 Admin Panel
+
+![Admin Panel](images/Screenshot%202026-04-03%20175124.png)
+![Admin Dashboard](images/Screenshot%202026-04-03%20175133.png)
+
+---
+
+### 📈 Analytics & Reports
+
+![Analytics](images/Screenshot%202026-04-03%20175144.png)
+![Reports](images/Screenshot%202026-04-03%20175157.png)
+
+---
+
+### 🏢 Company Drives & Management
+
+![Drives](images/Screenshot%202026-04-03%20175206.png)
+![Drive Details](images/Screenshot%202026-04-03%20175216.png)
+
+---
+
+### 🧾 Additional Screens
+
+![Screen 1](images/Screenshot%202026-04-03%20175234.png)
+![Screen 2](images/Screenshot%202026-04-03%20175243.png)
+![Screen 3](images/Screenshot%202026-04-03%20175256.png)
+![Screen 4](images/Screenshot%202026-04-03%20175334.png)
+![Screen 5](images/Screenshot%202026-04-03%20175344.png)
+![Screen 6](images/Screenshot%202026-04-03%20175353.png)
+![Screen 7](images/Screenshot%202026-04-03%20175405.png)
+![Screen 8](images/Screenshot%202026-04-03%20175422.png)
+![Screen 9](images/Screenshot%202026-04-03%20175431.png)
+
+---
+
 
 ## 👨‍💻 Author
 
