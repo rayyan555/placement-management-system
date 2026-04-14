@@ -217,8 +217,6 @@ npm run dev
 
 BE.CSE/ Honours And Specilization in AIML
 
-KPR Institute of Engineering and Technology
-
 Email : rayyanibnrahman903@gmail.com
 
 ---
